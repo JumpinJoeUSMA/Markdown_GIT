@@ -1,0 +1,21 @@
+---
+title: "Markdown Class"
+author: "COL Joseph Lindquist"
+date: "12/6/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Header
+
+horizontal line
+
+***
+```{r echo=FALSE}
+klippy::klippy()
+```
+
+### Something smart
